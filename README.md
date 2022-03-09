@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tenacle
-- 👀 I’m interested in coding, new tech, minecraft.
-- 🌱 I’m currently learning how to get a software dev job, and minecraft modding.
-- 💞️ I’m looking to collaborate on anything that interests me.
+- 👀 I’m interested in coding, new tech, and etc.
+- 🌱 I’m currently learning how to get a software dev job, kotlin, frameworks, and other dev tools.
+- 💞️ I’m looking to actually finishing a project. And manage to learn a full stack worth of tools.
 - 📫 How to reach me: send me a msg, if they allow that in github.
 
 <!---
