@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tenacle
+- 👋 Hi, I’m Tristan!
 - 👀 I’m interested in coding, new tech, and etc.
 - 🌱 I’m currently learning how to get a software dev job, kotlin, frameworks, and other dev tools.
 - 💞️ I’m looking to actually finishing a project. And manage to learn a full stack worth of tools.
